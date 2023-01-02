@@ -40,7 +40,7 @@ build a model wherein we need to assign a lead score to each of the leads such t
 ---
 ### Diabetes patient classification
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/CNNGestureRecognizer)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maheshkankar/DataScience-Projects/tree/main/Dibetes_prediction)
 
 Build Support vector machine to predict weather patient might have diabetes or not based on dependent factors.
 
