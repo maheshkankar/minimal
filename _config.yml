@@ -1,6 +1,18 @@
 title: Mahesh Kankar
 logo: /assets/img/WhatsApp Image 2023-01-01 at 11.33.38 AM.jpeg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/mahesh-kankar-7aa5a4116/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+ 
+  <br>  
+  I am working as a Software Engineer professional having a track record of processing raw data and applying ML models, deploying
+automation pipeline on AWS for ML models, Tech modernization using spark Scala, Making business decision using machine learning
+models on healthcare data and perform deep dive to gain actionable insights to benefit key stakeholders & facilitate sound decisionmaking.
+
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
