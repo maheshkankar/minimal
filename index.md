@@ -66,7 +66,7 @@ Build logistic regression model to classify weather customer can default or not 
 ---
 ### Housing Price Prediction
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maheshkankar/DataScience-Projects)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maheshkankar/DataScience-Projects/tree/main/Housing_price)
 
 Housing price prediction using linear regression.
 
