@@ -49,7 +49,7 @@ Build Support vector machine to predict weather patient might have diabetes or n
 ---
 ### Used car price prediction
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maheshkankar/DataScience-Projects)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maheshkankar/DataScience-Projects/tree/main/Used_Car_price)
 
 Developed random forest regressor to find fair value of old car based on car specifications and historical data.
 <center><img src="assets/img/car.jpg"/></center>
