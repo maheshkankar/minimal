@@ -32,7 +32,7 @@ Performed segmentation of customers based on purchase habits
 ---
 ### Lead Scoring Case study
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maheshkankar/DataScience-Projects)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maheshkankar/DataScience-Projects/tree/main/Lead_scoring)
 
 build a model wherein we need to assign a lead score to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance.
 <center><img src="assets/img/lead.jpg"/></center>
